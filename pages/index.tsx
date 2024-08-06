@@ -2,6 +2,7 @@ import type { NextPage } from "next";
 import Image from "next/image";
 import { useRouter } from "next/router";
 import styles from "../styles/Home.module.css";
+import Footer from "../Components/Footer";
 
 const Home: NextPage = () => {
   const router = useRouter();
