@@ -8,7 +8,7 @@ import {
     useOwnedNFTs,
     useTokenBalance,
     Web3Button,
-  } from "@thirdweb-dev/react";
+  } from "@thirdweb/react";
   import { BigNumber, ethers } from "ethers";
   import type { NextPage } from "next";
   import { useEffect, useState } from "react";
