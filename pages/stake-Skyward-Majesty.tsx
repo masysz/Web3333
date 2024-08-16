@@ -1,6 +1,5 @@
 import {
     ConnectWallet,
-    ConnectEmbed,
     ThirdwebNftMedia,
     useAddress,
     useContract,
