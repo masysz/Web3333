@@ -1,5 +1,6 @@
 import {
     ConnectWallet,
+    ConnectEmbed,
     ThirdwebNftMedia,
     useAddress,
     useContract,
@@ -75,7 +76,7 @@ import {
         <hr className={`${styles.divider} ${styles.spacerTop}`} />
   
         {!address ? (
-          <ConnectWallet />
+          <ConnectEmbed />
         ) : (
           <>
             <h2>Your Tokens</h2>
