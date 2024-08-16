@@ -76,7 +76,7 @@ import {
         <hr className={`${styles.divider} ${styles.spacerTop}`} />
   
         {!address ? (
-          <ConnectEmbed />
+          <ConnectWallet />
         ) : (
           <>
             <h2>Your Tokens</h2>
