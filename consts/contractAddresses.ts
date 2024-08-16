@@ -5,7 +5,7 @@ export const editionDropContractAddressTwo =
 export const editionDropContractAddressThree =
   "0x29BbDc3e813C0e35E33222534d6493043AFb7C9c";
 export const editionDropContractAddressFour =
-  "0x8512162Cf9d0175DeB52655A9bB62698757E34Cc";
+  "0xAB3c186aB572953a76ED8daEE611C2730B86be2c";
 
 export const tokenContractAddress =
   "0x33Ddf4b5E19b7Cbe69410CFaA2B69aE1F9eBcAD8";
@@ -17,4 +17,4 @@ export const stakingContractAddressTwo =
 export const stakingContractAddressThree =
   "0x91eE4b3616965383EfF3dA9b9041C44612064918";
 export const stakingContractAddressFour =
-  "0x8A244D55070C3C7BF92509c7Ca786AE7E3149842";
+  "0xA2dA1b1281CA0486B447b2774a7a4ff80aF2B623";
